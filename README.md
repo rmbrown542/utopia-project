@@ -1,2 +1,2 @@
 # utopia-project
-What would Utopia be?
+Describe Utopia
